@@ -1,4 +1,4 @@
-<img title="Wireframe for site with CSS." src="docs/Best Damn Chicken.jpg">
+<img title="Wireframe for site with CSS." src="Best Damn Chicken.jpg">
 
 
 # webhtml
